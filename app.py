@@ -9,7 +9,7 @@ import gdown  # install with: pip install gdown
 MODEL_PATH = "best_aunet_model (1).keras"
 # Replace with your actual Google Drive "shareable link" ID for the model file
 # Example link: https://drive.google.com/file/d/FILE_ID/view?usp=sharing
-MODEL_URL = "https://drive.google.com/file/d/19SQhrtegE5i3u2Y0ZtvArhd6miP9wuGU/view?usp=sharing"
+MODEL_URL = "MODEL_URL = "https://drive.google.com/uc?id=19SQhrtegE5i3u2Y0ZtvArhd6miP9wuGU""
 
 # Download model if not present
 @st.cache_resource
