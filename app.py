@@ -6,7 +6,7 @@ import os
 import gdown  # install with: pip install gdown
 
 # Constants
-MODEL_PATH = "/Users/ritwika/Desktop/RD docs/FIEM /PancreaticTumor/best_aunet_model (1).keras"
+MODEL_PATH = "best_aunet_model (1).keras"
 # Replace with your actual Google Drive "shareable link" ID for the model file
 # Example link: https://drive.google.com/file/d/FILE_ID/view?usp=sharing
 MODEL_URL = "https://drive.google.com/file/d/19SQhrtegE5i3u2Y0ZtvArhd6miP9wuGU/view?usp=sharing"
